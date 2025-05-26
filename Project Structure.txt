@@ -1,0 +1,6 @@
+spacex_app/
+├── app.py
+├── data_fetcher.py
+├── model_trainer.py
+├── requirements.txt
+└── README.md
