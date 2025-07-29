@@ -8,3 +8,4 @@ seaborn
 folium
 plotly
 joblib
+streamlit_folium
